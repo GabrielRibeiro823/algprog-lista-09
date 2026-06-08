@@ -1,0 +1,29 @@
+Pessoa Características: Nome, Idade, CPF, Email Ações: Andar, Comer,
+Dormir, Falar
+
+Carro Características: Marca, Modelo, Cor, Placa Ações: Ligar, Frear,
+Acelerar, Estacionar
+
+Animal Características: Espécie, Idade, Cor, Peso Ações: Correr, Comer,
+Dormir, Emitir Som
+
+Celular Características: Marca, Modelo, Memória, Cor Ações: Ligar,
+Desligar, Tirar Foto, Fazer Chamada
+
+Computador Características: Processador, Memória RAM, HD, Sistema
+Operacional Ações: Ligar, Desligar, Executar Programas, Armazenar Dados
+
+Livro Características: Título, Autor, Número de Páginas, Gênero Ações:
+Abrir, Fechar, Ler, Marcar Página
+
+Bicicleta Características: Cor, Marca, Número de Marchas, Tamanho Ações:
+Pedalar, Frear, Virar, Parar
+
+Televisão Características: Marca, Tamanho, Resolução, Volume Ações:
+Ligar, Desligar, Trocar Canal, Aumentar Volume
+
+Conta Bancária Características: Número da Conta, Saldo, Titular, Agência
+Ações: Depositar, Sacar, Transferir, Consultar Saldo
+
+Aluno Características: Nome, Matrícula, Curso, Nota Ações: Estudar,
+Fazer Prova, Assistir Aula, Entregar Trabalho
